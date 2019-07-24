@@ -12,7 +12,7 @@ This mod is not publically available yet. Follow our progress in these places:
 
 #### [Madden Modding Community Discord](https://discord.gg/nwpTCT3)
 
-#### [CFBM Twitter](https://twitter.com/cfbm19)
+#### [CFBM Twitter](https://twitter.com/cfbmxx)
 
 
 ***
