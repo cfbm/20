@@ -2,11 +2,29 @@
 
 ## Description
 
-This is the follow-up to the highly-touted CFBM19 mod for Madden 19. This year's will be even better than before and within this year's title, Madden NFL 20. 
+The Madden 20 follow-up to the highly-touted CFBM19 mod for last year's game.
+
+CFBM20 provides players with 32 of the top teams in college football today. Each teams has accurately named, rated, and equipped athletes. Each team has their correct field and stunningly accurate uniforms. Beyond the teams, we have added an accurate college ball, referee uniforms, college-specific game rules, and much more. All of this together provides you with a complete play-now college football experience in Madden 20 on PC.
+
+This mod does not add Dynasty Mode or anything similar. This was not intended to be used in franchise mode. What you do in CFM is up to you, but do not rely on the mod providing an accurate experience in the mode, as it is not editable at this time.
+
+X Factors and Superstars are not currently included, but we anticipate that releasing in an update later on.
+
 
 ## Quick Links
 
-This mod is not publically available yet. Follow our progress in these places:
+<div style="text-align:center">
+  <a href="https://github.com/cfbm/20/releases"><img src="https://i.imgur.com/j1DW6Sz.png" width="300"></a>
+</div>
+<div style="text-align:center">
+  <a href="https://github.com/cfbm/20/wiki/Installation-Instructions"><img src="https://i.imgur.com/8N7avdM.png" width="300"></a>
+</div>
+<div style="text-align:center">
+  <a href="https://github.com/cfbm/20/wiki/Troubleshooting"><img src="https://i.imgur.com/2hUdg9e.png" width="300"></a>
+</div>
+<div style="text-align:center">
+  <a href="https://github.com/cfbm/20/wiki/Frequently-Asked-Questions"><img src="https://i.imgur.com/C4DbRdo.png" width="100"></a>
+</div>
 
 #### [Madden Modding Community Discord](https://discord.gg/nwpTCT3)
 
