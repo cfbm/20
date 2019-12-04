@@ -8,7 +8,7 @@ CFBM20 provides players with [37 of the top teams](https://github.com/cfbm/20/wi
 
 This mod does not add Dynasty Mode or anything similar. This was not intended to be used in franchise mode. What you do in CFM is up to you, but do not rely on the mod providing an accurate experience in the mode, as it is not editable at this time.
 
-X Factors and Superstars are not currently included, but we anticipate that releasing in an update later on.
+X-Factors and Superstars are included with the mod, but as a separate file in case you don't want to use them.
 
 
 ## Quick Links
